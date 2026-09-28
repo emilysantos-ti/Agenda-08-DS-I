@@ -6,7 +6,7 @@ print()
 qtd_excelente = 0
 qtd_ruim = 0
 
-# Versão de teste solicitada na atividade
+# Versão final da pesquisa com 50 entrevistados
 total_entrevistados = 50
 
 for numero in range(1, total_entrevistados + 1):
