@@ -7,7 +7,7 @@ qtd_excelente = 0
 qtd_ruim = 0
 
 # Versão de teste solicitada na atividade
-total_entrevistados = 10
+total_entrevistados = 50
 
 for numero in range(1, total_entrevistados + 1):
     print(f"\n--- Entrevistado {numero} de {total_entrevistados} ---")
