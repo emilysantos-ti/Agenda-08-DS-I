@@ -66,7 +66,7 @@ Após a validação, a quantidade de entrevistados foi alterada para 50 para ate
 
 ## Evidências
 
-Este repositório contém o código desenvolvido e também será complementado com os prints do código e da execução do teste.
+Este repositório contém o código desenvolvido, o print do código-fonte e o print da execução do teste realizado com 10 entrevistados.
 
 ## Autora
 
